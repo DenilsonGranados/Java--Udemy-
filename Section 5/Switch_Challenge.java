@@ -1,4 +1,3 @@
-import javax.security.auth.kerberos.KeyTab;
 
 public class Switch_Challenge {
     public static void main(String[] args){
