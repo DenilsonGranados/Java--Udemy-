@@ -1,6 +1,6 @@
 public class Switch_statement {
     public static void main(String[] args){
-        int swaitchValue=1;
+        int swaitchValue=3;
         switch(swaitchValue){
             case 1:
             System.out.println("Value was 1");
